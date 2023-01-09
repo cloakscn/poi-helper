@@ -6,7 +6,7 @@
 
     <groupId>cn.cloaks</groupId>
     <artifactId>poi-helper</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -21,6 +21,4 @@
             <url>file:${basedir}/repo</url>
         </repository>
     </distributionManagement>
-
-
 </project>

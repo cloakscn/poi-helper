@@ -4,8 +4,8 @@
   <artifactId>poi-helper</artifactId>
   <versioning>
     <versions>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20230109094842</lastUpdated>
+    <lastUpdated>20230109095731</lastUpdated>
   </versioning>
 </metadata>
